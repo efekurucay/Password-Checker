@@ -1,0 +1,11 @@
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\bin\Debug\sifrekontrol.exe.config
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\bin\Debug\sifrekontrol.exe
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\bin\Debug\sifrekontrol.pdb
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.csproj.AssemblyReference.cache
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.Form1.resources
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.Properties.Resources.resources
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.csproj.GenerateResource.cache
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.csproj.CoreCompileInputs.cache
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.exe
+C:\Users\efeku\source\repos\sifrekontrol\sifrekontrol\obj\Debug\sifrekontrol.pdb
